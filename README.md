@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an Ecommerce**
+ 🔭 I’m currently working on **an Educational platform**
  
- 🌱 I’m currently learning **APIs**
+ 🌱 I’m currently learning **Testing**
 
 💬 Ask me about **php , Laravel or anything [here](https://github.com/amar21112/amar21112/issues)**
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,mysql,laravel,html,css,vscode,github,git,REST APIs" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,laravel,html,css,vscode,github,git" />
 </div>
 
 <br/>
